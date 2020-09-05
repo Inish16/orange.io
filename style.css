@@ -1,0 +1,24 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.navbar-brand
+{
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.carousel-inner img
+{
+	width: 50%;
+	height: 90vh;
+}
+
+.container
+{
+	padding-top: 0px;
+}
