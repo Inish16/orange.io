@@ -1,24 +1,16 @@
 *
 {
-	padding: 0;
-	margin: 0;
-	font-family: 'Indie Flower', cursive;
-
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Kumbh Sans', sans-serif;
+	color: orange;
 }
 
-.navbar-brand
+.image
 {
-	font-family: 'Indie Flower', cursive;
-
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPoWTCSdukWLj5QGelBXy_jAd2YAwnhEYUrQ&usqp=CAU");
+	padding: 0px;
+	margin: 0px;
 }
 
-.carousel-inner img
-{
-	width: 50%;
-	height: 90vh;
-}
 
-.container
-{
-	padding-top: 0px;
-}
